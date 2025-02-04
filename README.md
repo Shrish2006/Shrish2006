@@ -30,6 +30,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a>
 <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  /></a>
 <a href="https://www.autodesk.com/in/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Fusion_360_Logo.png" height="38" alt="fusion logo"  /></a>
+<a href="https://www.keyshot.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=jPVduvWkhdxs&format=png" height="40" alt="keyshot logo"  /></a>
 
 </a> </p>
 
