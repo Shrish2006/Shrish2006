@@ -20,9 +20,8 @@
 ## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shrish-makwana" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" /></a>
-  &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shrishmak986@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32" /></a>
+  <a href="https://www.linkedin.com/in/shrish-makwana" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shrishmak986@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
 </p>
 
 ###
