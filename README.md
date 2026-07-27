@@ -1,37 +1,64 @@
-<h1 align="left">Heyy👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Shrish;AI+%2F+ML+%E2%9C%A6+Robotics+%26+Automation;From+model+to+machine." alt="Typing SVG" />
+</h1>
+
+<h4 align="center">Building AI that doesn't stay in notebooks.</h4>
 
 ###
 
-<h2 align="left">I'm Shrish a.k.a Tech Savvy 💻</h2>
+## About
+
+- 🧠 Worked across most of the AI stack: data science → ML → deep learning → computer vision → NLP → reinforcement learning → Edge AI & TinyML → agentic systems & MCP
+- 🦾 Now going deep on **robotics**: embedded systems, sensing, sensor fusion, and control
+- 🎯 Headed for **Robotics & Automation built on an AI tech stack**, where perception, decision-making, and actuation are one pipeline
+- ⚙️ Also work in deployment and systems: containerization, multi-service architecture, shipping models to production
+- 🎨 3D modeling and CAD for hardware prototyping
+- 📫 Reach me at **shrishmak986@gmail.com**
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Tech Enthusiast | Researcher ✨<br><br>🎓 College Student, constantly learning, exploring, and growing in the world of technology and innovation!<br>🚀 Pushing the boundaries of Artificial Intelligence & Machine Learning<br>🧠 Exploring smarter models with Neural Networks, NLP, and Computer Vision<br>🎯 Currently improving my skills in hyperparameter tuning, model selection, and optimization<br>⚙️ Working with PyTorch | TensorFlow | Scikit-Learn<br>📊 Passionate about data-driven insights & cutting-edge AI research<br>💻 Currently on a journey to master Web Development, building my skills and experimenting with new technologies every day! <br>🎨 Bringing ideas to life through precision 3D modeling, transforming concepts into functional designs with creativity and innovation. <br>🌍 Love sharing knowledge through open-source projects & blogs.<br><br>💡 Always innovating, always learning. Let’s build the future of AI together! 🤝<br><br>📫 Connect with me: [LinkedIn | Portfolio]<br><br>Fun Fact⚡: 🎮 In my downtime, you’ll find me immersed in the world of video games, where strategy and creativity collide for the ultimate challenge!</p>
-
-###
-
-<h2 align="left">Language and Tools</h2>
-
-###
+## Connect
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/shrish-makwana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:shrishmak986@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="27" width="35" /></a>
 </p>
 
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  /></a>
-<a href="https://www.anaconda.com/products/navigator" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
-<a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  /></a>
-<a href="https://www.autodesk.com/in/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Fusion_360_Logo.png" height="38" alt="fusion logo"  /></a>
-<a href="https://www.keyshot.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=jPVduvWkhdxs&format=png" height="40" alt="keyshot logo"  /></a>
-<a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=JdUAwt7mLjDS&format=png" height="40" alt="spyder logo"  /></a>
+###
 
-</a> </p>
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,java,matlab,mysql" alt="Python, C++, Java, MATLAB, MySQL" />
+
+**AI &amp; Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda" />
+
+**Robotics &amp; Embedded**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino, Raspberry Pi" />
+
+**Systems &amp; Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,pycharm" alt="Docker, Git, GitHub, Linux, VS Code, PyCharm" />
+
+**Design &amp; 3D**
+
+<img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+
+<sub>
+Also working with: ROS · NumPy · pandas · Jupyter · Fusion 360 · uv<br>
+Focus areas: Deep Learning · Computer Vision · NLP · Reinforcement Learning · Edge AI &amp; TinyML · Agentic Systems and MCP
+</sub>
 
 ###
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shrish2006/Shrish2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+###
+
+<p align="center"><sub>Always learning. Always building.</sub></p>
